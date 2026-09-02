@@ -1,0 +1,15 @@
+{
+	"name": "df-azure-spotifyproj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ac95974-b36b-4dfa-9033-ac29fb3b73d0",
+		"tenantId": "350572ba-2634-4d6d-918a-0e49da91c736"
+	}
+}
